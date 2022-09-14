@@ -11,13 +11,14 @@ https://acm.khpnets.info/wiki/Очередь_с_приоритетами
 
 ## 3 Работа с динамическими библиотеками
 Разработайте приложение. В папке приложения находится папка PLUGINS с динамическими библиотеками, содержащими функции TheFunc(x: Double): Double (cdecl) и функцию FuncName: PAnsiChar (stdcall). Приложение загружает библиотеки, выводит имена функций и спрашивает пользователя какую функцию посчитать. После ответа, программа либо строит график на интервале от 0 до 10 и подписывает его названием функции. Если библиотеку загрузить не удалось или функции не найдены, то она пропускается. 
-Файлы к лабораторной работе https://drive.google.com/file/d/1W2zIbjRYHnKRz50IXzOeE69B2itCmpds/view?usp=sharing, пароль - 123 
-
-Файлы к лабораторной работе здесь, пароль - 123 
+Файлы к лабораторной работе https://drive.google.com/file/d/1W2zIbjRYHnKRz50IXzOeE69B2itCmpds/view?usp=sharing, пароль - 123
 
 ## 4 Очередь с приоритетом в отдельной динамической библиотеке DLL (4 б.) + вызовы из разных ЯП
+https://hwmw.blogspot.com/p/windows-dll.html
 
 ## 5 Очередь с приоритетом в ActiveX/COM объекте (4 б.) + вызовы из разных ЯП
+https://github.com/drmckay-kirill/dev_tech_labs/tree/master/ActiveXDemoLib
+https://github.com/drmckay-kirill/dev_tech_labs/tree/master/ComDemoLib/ComDemoLib
 
 ## 6 Очередь с приоритетом и синхронизацией доступа (мьютекс/семафор) (4 б.)
 
