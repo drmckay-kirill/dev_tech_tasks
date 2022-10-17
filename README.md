@@ -30,7 +30,7 @@ https://github.com/drmckay-kirill/dev_tech_labs/tree/master/ComDemoLib/ComDemoLi
 
 ## 10 Гонки в консоли
 
-## 11 Задача обедающих философов
+## 11 -
 
 ## 12 Что-нибудь про ООП
 
